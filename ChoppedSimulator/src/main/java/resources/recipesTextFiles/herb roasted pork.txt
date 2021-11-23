@@ -1,0 +1,3 @@
+kitchen entities: spatula, tray, bowl, tea spoon, spoon.
+1. In a bowl, combine sage, salt, pepper, and garlic. Rub thoroughly all over pork. Place pork in an uncovered roasting pan on the middle oven rack. 
+2. Bake in the preheated oven approximately 3 hours, or until the internal temperature reaches at least 145 degrees F (63 degrees C), depending upon your desired doneness. (bake in the oven)

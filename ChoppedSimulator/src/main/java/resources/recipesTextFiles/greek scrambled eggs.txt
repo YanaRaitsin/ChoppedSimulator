@@ -1,0 +1,4 @@
+kitchen entities: spatula, cooking pan, bowl, tea spoon, spoon.
+1. Heat butter in a skillet over medium-high heat. Beat eggs and water together, then pour into pan. Add feta cheese, and cook, stirring occasionally to scramble. Season with salt and pepper.
+2. Beat eggs and water together, then pour into pan. Add feta cheese, and cook, stirring occasionally to scramble. Season with salt and pepper.
+3. fry on the cooking pan the ingredients

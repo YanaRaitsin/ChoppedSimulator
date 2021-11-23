@@ -1,0 +1,3 @@
+kitchen entities: spatula, tray, bowl, tea spoon, spoon.
+1. In a large bowl, mash the bananas. Stir in oats, dates, oil, and vanilla. Mix well, and allow to sit for 15 minutes. Drop by teaspoonfuls onto an ungreased cookie sheet.
+2. Bake for 20 minutes in the preheated oven, or until lightly brown. (bake in the oven)

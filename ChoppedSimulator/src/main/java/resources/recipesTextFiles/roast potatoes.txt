@@ -1,0 +1,3 @@
+kitchen entities: spatula, bowl, tea spoon, spoon, tray.
+1. put the potatoes and the duck fat into the bowl and add a bit salt.
+2. put everything on the tray and than bake the potatoes in the oven. (bake in the oven)

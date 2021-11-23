@@ -1,0 +1,3 @@
+kitchen entities: spatula, bowl, tea spoon, spoon, cooking pan.
+1. Cook the green beans in boiling water for 2-3 mins until just tender, then drain well and steam-dry for a min. (fry on the cooking pan)
+2. Meanwhile, gently fry the garlic in the oil until pale golden – no further. 

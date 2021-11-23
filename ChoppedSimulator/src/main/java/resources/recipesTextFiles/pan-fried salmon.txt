@@ -1,0 +1,2 @@
+kitchen entities: spatula, bowl, tea spoon, spoon, cooking pan.
+1. Generously season the salmon fillets with salt and pepper. Put the oil and butter in a non-stick frying pan over a medium heat, swirling around the pan until melted and foaming, then turn up the heat. Once the butter starts bubbling, add the salmon fillets to the pan, skin-side-down, and fry for 3 mins until crisp. Flip the fillets over, lower the heat and cook for 2 mins more, then drizzle with the lemon juice. (fry on the cooking pan)
