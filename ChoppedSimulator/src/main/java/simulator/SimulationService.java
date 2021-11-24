@@ -14,8 +14,6 @@ import java.util.Vector;
 
 import javax.persistence.Query;
 
-import org.joml.Vector3f;
-
 import algorithm.DecisionTree;
 import algorithm.ID3;
 import data.Allergy;
@@ -38,6 +36,7 @@ import graph.Mesh;
 import graph.Texture;
 import items.GameItem;
 import loaders.OBJLoader;
+import math.Vector3f;
 import utils.Logs;
 import utils.ScoreCalculator;
 
