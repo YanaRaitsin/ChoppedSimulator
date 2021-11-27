@@ -24,3 +24,6 @@ Profile: will show the history of all the recipes that he selected: <br />
 ![profile](7.png) <br />
 Settings: the settings and the conrtols of the simulation: <br />
 ![settings](8.png) <br />
+<br />
+Chopped Simulator was developed on Java using JDBC API, LWJGL (OpenGL) and Decision Tree ID3 algorithm. <br />
+
