@@ -11,9 +11,9 @@ If the user exists, he will enter to the main menu of the simulation: <br />
 ![main](3.png) <br />
 Start button - will enter the user to recipe selection so he can start the preparation. <br />
 Profile button - will show to the user all the recipes that he prepared in the simulation. <br />
-Settings - the user can turn off or on the vSync and to see the controls guide of the simulation.
-Exit - will exit the simulation.
-Continue - if the simulation stopped working because of an error, the user can continue the preparation of the recipe where he stopped.
+Settings - the user can turn off or on the vSync and to see the controls guide of the simulation. <br />
+Exit - will exit the simulation. <br />
+Continue - if the simulation stopped working because of an error, the user can continue the preparation of the recipe where he stopped. <br />
 Start: first, the user need to select the recipe that the simulation recommand based on the user's data: <br />
 ![selection](4.png) <br />
 During the preparation of the recipe, the user can control the portion of each ingredient. In order to receive a full score, the user must select the amount of the ingredients according to the instructions of the recipe that he selected. The user is measured on time according to the type of the recipe he chose to prepare. <br />
