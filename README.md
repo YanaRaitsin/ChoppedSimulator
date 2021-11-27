@@ -1,6 +1,6 @@
 # ChoppedSimulator
 Machine learning based simulator that recommends recipes depending on the user's preferences. <br />
-The user must to register the simulation and insert the data for the recommendation: <br />
+The user must to register to the simulation and insert the data for the recommendation: <br />
 ![Registration](1.png) <br />
 Based on the data that the user entered (food preferences, allergies, etc), the simulation builds recipes for different types of users (for example: people who have allergies to certain ingredients, diabetes, or personal preferences). <br />
 The user must login with the email and the password that he inserted: <br />
